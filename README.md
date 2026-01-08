@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently working on automating my robotic arm.<br>I work with Arduino and Raspberry pi.<br>I have experience with robotic arms.<br>I know c++, python and a little html.<br>AI helps me a lot with projects.<br>From Czech Republic.
 
+[GITLAB:](https://gitlab.com/jutuberjerry)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9FdUbNt2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonym02703) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dry_Locksmith9794) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@12345_____qwert) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jerryjayjerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JerryJaroslav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8E801PJqoTDHsySJsjR15A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerryjaroslav36@gmail.com) 
