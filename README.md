@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on automating my robotic arm.<br>I work with Arduino and Raspberry pi.<br>I have experience with robotic arms.<br>I know c++, python and a little html.<br>AI helps me a lot with projects.<br>From Czech Republic.
+I'm currently working on automating my robotic arm.<br>I work with Arduino and Raspberry pi.<br>I have experience with robotic arms.<br>I know c++, python and a little html.<br>AI helps me a lot with projects.<br>From Czech Republic. <br>Linux user
 
 
 ## 🌐 Socials:
