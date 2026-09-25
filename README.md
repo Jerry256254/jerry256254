@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>"There is no god and no predestination — everything is governed by science and physics alone. This is scientific naturalism."</em><br/>
+  <em>"There is no god and no predestination - everything is governed by science and physics alone. This is scientific naturalism."</em><br/>
   — <strong>Jaroslav Kučera</strong>
 </p>
 
