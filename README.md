@@ -1,28 +1,82 @@
-# 💫 About Me:
-I'm currently working on automating my robotic arm.<br>I work with Arduino and Raspberry pi.<br>I have experience with robotic arms.<br>I know c++, python and a little html.<br>AI helps me a lot with projects.<br>From Czech Republic. <br>Linux user
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=KucLab&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open-source%20software%20lab&descAlignY=62&descSize=20" />
 
+<p align="center">
+  <a href="https://github.com/Jerry256254"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+KucLab+%E2%80%94+open-source+software+lab;AI+agents%2C+coding+tools+%26+web+games;Explore+more+at+kuclab.org" alt="Typing SVG" /></a>
+</p>
 
-## 🌐 Socials:
-[GITLAB](https://gitlab.com/jutuberjerry)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9FdUbNt2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonym02703) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dry_Locksmith9794) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@12345_____qwert) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jerryjayjerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JerryJaroslav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8E801PJqoTDHsySJsjR15A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerryjaroslav36@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jerry256254&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jerry256254&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry256254&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jerry256254&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jerry256254&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jerry256254&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Jerry256254?tab=followers"><img src="https://img.shields.io/github/followers/Jerry256254?color=0ea5e9&style=flat-square&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://kuclab.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkuclab.org&style=flat-square&label=kuclab.org" alt="kuclab.org status" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jerry256254&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 About KucLab
+
+**KucLab** is an open-source software lab building practical tools with AI at the core — personal AI agents, coding assistants, web games, Android apps and machine-learning experiments. Everything is built in the open at [kuclab.org](https://kuclab.org).
+
+- 🤖 **Hertz** — self-hosted open-source personal AI agent platform
+- ⌨️ **KucLab Code** — AI coding agent with CLI + remote web control
+- 💬 **HertzChat** — peer-to-peer, end-to-end encrypted Android chat with no servers
+- 🧹 **Cleaner** — fast, private, on-device Android gallery cleaner
+- 🎮 **Web games** — shooters, platformers, voxel sandbox & more, playable at [kuclab.org/#games](https://kuclab.org/#games)
+- 🧠 **LLM research** — training and experimenting with language models on [Hugging Face](https://huggingface.co/KucLab)
+
+## 🌐 Connect
+
+<p>
+  <a href="https://kuclab.org"><img src="https://img.shields.io/badge/kuclab.org-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kuclab.org" /></a>
+  <a href="https://huggingface.co/KucLab"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://www.instagram.com/jaroslav36k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/JerryJaroslav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/jaroslav-ku%C4%8Dera-a980763a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,kotlin,cpp,git,github,linux,nginx,cloudflare,blender&theme=dark" alt="Tech stack" />
+</p>
+
+## 🚀 Featured KucLab Projects
+
+<p align="center">
+  <a href="https://github.com/Jerry256254/Hertz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jerry256254&repo=Hertz&theme=tokyonight&hide_border=true" alt="Hertz" /></a>
+  <a href="https://github.com/Jerry256254/KucLab-Code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jerry256254&repo=KucLab-Code&theme=tokyonight&hide_border=true" alt="KucLab Code" /></a>
+  <a href="https://github.com/Jerry256254/HertzChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jerry256254&repo=HertzChat&theme=tokyonight&hide_border=true" alt="HertzChat" /></a>
+  <a href="https://github.com/Jerry256254/Cleaner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jerry256254&repo=Cleaner&theme=tokyonight&hide_border=true" alt="Cleaner" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jerry256254&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry256254&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jerry256254&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jerry256254&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jerry256254&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2" alt="GitHub trophies" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jerry256254/Jerry256254/output/github-snake.svg" alt="Snake eating contributions" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=140&section=footer" />
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Jerry256254&icon=2&color=1" alt="Visitor count" /></a>
+</p>
