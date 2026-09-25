@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jerry256254/Jerry256254/output/github-snake.svg" alt="Snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/jerry256254/jerry256254/output/github-snake.svg" alt="Snake eating contributions" />
 </p>
 
 ---
