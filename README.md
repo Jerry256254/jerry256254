@@ -10,11 +10,6 @@
   <a href="https://kuclab.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkuclab.org&style=flat-square&label=kuclab.org" alt="kuclab.org status" /></a>
 </p>
 
-<p align="center">
-  <em>"There is no god and no predestination - everything is governed by science and physics alone. This is scientific naturalism."</em><br/>
-  — <strong>Jaroslav Kučera</strong>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3" />
 
 ## 🧬 About KucLab
@@ -42,6 +37,11 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,kotlin,cpp,git,github,linux,nginx,cloudflare,blender&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <em>"There is no god and no predestination - everything is governed by science and physics alone. This is scientific naturalism."</em><br/>
+  — <strong>Jaroslav Kučera</strong>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3" />
