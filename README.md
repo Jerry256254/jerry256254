@@ -52,24 +52,6 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
   <a href="https://www.linkedin.com/in/jaroslav-ku%C4%8Dera-a980763a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,kotlin,cpp,docker,pytorch,git,github,linux,nginx,cloudflare,blender&theme=dark" alt="Tech stack" />
-</p>
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jerry256254&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jerry256254&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry256254&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top languages" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry256254&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jerry256254&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Contribution streak" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jerry256254&theme=default&hide_border=true#gh-light-mode-only" alt="Contribution streak" />
-</p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry256254&theme=tokyo-night&hide_border=true&area=true#gh-dark-mode-only" alt="Activity graph" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry256254&theme=github-light&hide_border=true&area=true#gh-light-mode-only" alt="Activity graph" />
