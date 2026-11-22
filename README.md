@@ -53,8 +53,7 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry256254&theme=tokyo-night&hide_border=true&area=true#gh-dark-mode-only" alt="Activity graph" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry256254&theme=github-light&hide_border=true&area=true#gh-light-mode-only" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry256254&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3" />
