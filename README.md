@@ -40,28 +40,6 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
   <a href="https://huggingface.co/KucLab"><img src="https://img.shields.io/badge/Hugging_Face-KucLab-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 </p>
 
-## Open source
-
-| Project | What it is |
-| --- | --- |
-| [Hertz](https://github.com/Jerry256254/Hertz) | Self-hosted AI workspace: chat, image generation, voice, projects. Zero-knowledge |
-| [KucLab Code](https://github.com/Jerry256254/KucLab-Code) | My own AI coding agent: CLI plus remote web control over LAN / Tailscale |
-| [HertzChat](https://github.com/Jerry256254/HertzChat) | Peer-to-peer, end-to-end encrypted Android chat. No server, no cloud, no registration |
-| [Hertz-DS](https://github.com/Jerry256254/Hertz-DS) | Local agentic AI assistant for Android on the DeepSeek API |
-| [llm](https://github.com/Jerry256254/llm) / [llm-train](https://github.com/Jerry256254/llm-train) | LLM fine-tuning pipeline: Docker, NVIDIA GPU, web UI, GGUF, Ollama |
-| [censer](https://github.com/Jerry256254/censer) .1-.9 | From-scratch safety classifiers, see models above |
-| [Cleaner](https://github.com/Jerry256254/Cleaner) | Fast, private, on-device Android gallery cleaner: blurry shots, duplicates, bulk delete |
-| [web-reaper](https://github.com/Jerry256254/web-reaper) | Deep web scanner: DNS, ports, SSL, headers, CMS, sensitive files, subdomains, WAF detection |
-| [Games and tools](https://kuclab.org) | 12 browser games and 12 privacy-first web tools on one page |
-
-## Featured repos
-
-<p align="center">
-  <a href="https://github.com/Jerry256254/llm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=llm&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="llm" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=llm&theme=default&hide_border=true#gh-light-mode-only" alt="llm" /></a>
-  <a href="https://github.com/Jerry256254/Hertz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=Hertz&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Hertz" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=Hertz&theme=default&hide_border=true#gh-light-mode-only" alt="Hertz" /></a>
-  <a href="https://github.com/Jerry256254/KucLab-Code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=KucLab-Code&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="KucLab Code" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=jerry256254&repo=KucLab-Code&theme=default&hide_border=true#gh-light-mode-only" alt="KucLab Code" /></a>
-</p>
-
 ## Connect
 
 <p>
@@ -70,7 +48,7 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
   <a href="https://huggingface.co/KucLab"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:jaroslav@kuclab.org"><img src="https://img.shields.io/badge/jaroslav%40kuclab.org-0EA5E9?style=for-the-badge" alt="Email" /></a>
   <a href="https://www.instagram.com/jaroslav36k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/jerry256254"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/jaroslav36k"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/jaroslav-ku%C4%8Dera-a980763a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
