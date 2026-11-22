@@ -1,0 +1,13 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KucLab - AI agents, LLM models and open-source tools">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <path d="M0,210 C200,160 400,260 600,215 C800,170 1000,250 1200,200 L1200,280 L0,280 Z" fill="#ffffff" fill-opacity="0.14"/>
+  <path d="M0,240 C220,195 420,275 640,235 C860,195 1020,265 1200,230 L1200,280 L0,280 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#ffffff">KucLab</text>
+  <text x="600" y="175" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" fill-opacity="0.92">AI agents, LLM models &amp; open-source tools</text>
+</svg>

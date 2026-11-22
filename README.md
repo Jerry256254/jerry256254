@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=KucLab&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+agents%2C+LLM+models+%26+open-source+tools&descAlignY=62&descSize=20" />
+<img width="100%" src="assets/header.svg" alt="KucLab - AI agents, LLM models and open-source tools" />
 
 <p align="center">
   <a href="https://github.com/jerry256254"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Gerin+at+heygerin.com+-+a+personal+agent+with+its+own+computer;LLM+models+on+Hugging+Face+-+Censer+%26+kuclab-hertz+series;Open-source+agents,+tools+%26+games+at+kuclab.org" alt="Typing SVG" /></a>
@@ -70,7 +70,7 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
   <a href="https://huggingface.co/KucLab"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:jaroslav@kuclab.org"><img src="https://img.shields.io/badge/jaroslav%40kuclab.org-0EA5E9?style=for-the-badge" alt="Email" /></a>
   <a href="https://www.instagram.com/jaroslav36k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/JerryJaroslav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/jerry256254"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/jaroslav-ku%C4%8Dera-a980763a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
