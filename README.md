@@ -58,9 +58,4 @@ A personal agent with its own computer. It gets an isolated workspace with a ter
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3" />
 
-<p align="center">
-  <em>"There is no god and no predestination - everything is governed by science and physics alone. This is scientific naturalism."</em><br/>
-  - <strong>Jaroslav Kučera</strong>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=140&section=footer" />
