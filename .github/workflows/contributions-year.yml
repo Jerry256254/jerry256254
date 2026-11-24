@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Generate this year's contribution cubes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/generate_contributions.py
       - name: Commit if changed
         run: |
